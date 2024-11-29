@@ -1,2 +1,2 @@
-# medpointSystem1
-Setting Up
+# medpointSystem
+ini belum jadi kak, masih explor
