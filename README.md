@@ -13,15 +13,3 @@ Framework: Raiden
 Database: Supabase (PostgreSQL)
 
 Lainnya: Supabase SDK untuk Go
-
-Struktur folder
-├── cmd
-│   └── main.go         # Entry point aplikasi
-├── internal
-│   ├── config          # Konfigurasi aplikasi
-│   ├── handlers        # Handler untuk endpoint API
-│   ├── models          # Definisi model data
-│   └── services        # Logika bisnis utama
-├── pkg
-│   └── utils           # Fungsi utilitas
-└── go.mod              # File dependensi Go
